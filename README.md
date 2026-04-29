@@ -30,19 +30,6 @@ The classification report shows that the model is very robust:
 - It successfully identifies **88% of patients with heart disease**.
 - It maintains a high precision of **90%**, meaning it has a low rate of false alarms.
 
-## 📁 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook/script:
-   ```bash
-   python heart_disease_model.py
-   ```
 
----
-*Disclaimer: This project is for educational purposes and should not be used as a replacement for professional medical diagnosis.*
+
+ This project is for educational purposes and should not be used as a replacement for professional medical diagnosis.*
